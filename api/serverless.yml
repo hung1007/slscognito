@@ -1,5 +1,5 @@
-org: YOUR_ORG
-app: YOUR_APP
+org: hungnv
+app: ac-cog
 service: sls-cognito-api
 
 provider:

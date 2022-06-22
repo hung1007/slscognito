@@ -23,7 +23,7 @@ functions:
 resources:
   Resources:
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    # Cognito User Pool Resources
+    # Cognito User Pool Resources1
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     CognitoUserPool:
       Type: AWS::Cognito::UserPool

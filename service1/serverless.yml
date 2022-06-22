@@ -11,7 +11,7 @@ provider:
 
 functions:
   hello:
-    timeout: 30
+    timeout: 300
     handler: handler.hello
     events:
       - http:

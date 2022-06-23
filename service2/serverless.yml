@@ -15,7 +15,7 @@ functions:
     handler: handler.hello
     events:
       - http:
-          path: /back2
+          path: /back21
           method: get
           cors: true
           authorizer:

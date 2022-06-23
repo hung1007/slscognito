@@ -18,7 +18,7 @@ functions:
     handler: handler.hello
     events:
       - http:
-            path: /test
+            path: /test1
             method: get
 
 resources:
